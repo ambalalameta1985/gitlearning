@@ -19,3 +19,4 @@
 19. git log --author="ambalalameta@gmail.com",(Get specific user log data)
 20. git clone -b <branch name> <Http link>m,(clone github repo to local)
 21. ls -a,(show directory Data on command line)
+22. git pull,(download file from central reporistry)
