@@ -34,3 +34,24 @@
 	
 	cat /c/Users/Ambalal/.ssh/id_ed25519.pub
 	ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIInkkQ7X9M83dY564M4cAlSnEeZLRnsd+RYZni/DiIT/ ametaambalal@gmail.com
+25. Test The SSH Connection
+	ssh -T git@github.com
+	The authenticity of host 'github.com (13.234.176.102)' can't be established.
+	RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+	This key is not known by any other names
+	Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+	Warning: Permanently added 'github.com' (RSA) to the list of known hosts.
+	Hi ambalalameta1985! You've successfully authenticated, but GitHub does not provide shell access.
+	
+	Change directory into the local clone of your repository (if you're not already there) and run:
+	
+	git remote set-url origin git@github.com:username/your-repository.git
+	
+	Now try editing a file (try the README) and then do:
+	
+	$ git commit -am "Update README.md"
+	$ git push
+	You should not be asked for a username or password. If it works, your SSH key is correctly configured.
+	
+
+26.  git push,(Upload files local machine to server)
