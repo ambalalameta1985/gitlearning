@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1>Hello Amba Lal Ameta! Welcome to Jenkins Training V2 Code Pipe Line...</h1>
-<h2>Hello Amba Lal Ameta! Updation For Production Enviroment................</h2>
+<h1>Hello Amba Lal Ameta! Welcome to Jenkins Training Code Pipe Line...</h1>
+<h2>Hello Amba Lal Ameta! Updation For Code Pipe Line................</h2>
 <h3>Hello Amba Lal Ameta! Welcome to Jenkins Training Java Sample Project...</h3>
 <h4>Hello Amba Lal Ameta! Welcome to Jenkins Training Java Sample Project...</h4>
 <h5>Hello Amba Lal Ameta! Welcome to Jenkins Training Java Sample Project...</h5>
