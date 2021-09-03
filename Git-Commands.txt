@@ -54,4 +54,6 @@
 	You should not be asked for a username or password. If it works, your SSH key is correctly configured.
 	
 
-26.  git push,(Upload files local machine to server)
+26.  git clone <Repo url>
+27.  git remote set-url origin git@github.com:username/your-repository.git 
+28.  git push,(Upload files local machine to git hub server)
